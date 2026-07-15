@@ -228,15 +228,13 @@ streamlit run app.py
 
 ---
 
+
+
 # 🌐 Live Demo
 
-**Add your Streamlit Cloud URL here after deployment.**
+🚀 **Try the live application here:**
 
-Example:
-
-```
-https://your-app-name.streamlit.app
-```
+https://customer-churn-analysis-hd5kwhjkvcwrclfgecagcp.streamlit.app/
 
 ---
 
